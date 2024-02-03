@@ -20,9 +20,9 @@ NOTE: Currently, the app is incompatible with the latest verison of Node, use nv
 
 ## About Our Project
 
-Hi there, this is Joshua Gonzales, Alessia Panzica, Olivia Xu, and Aaliyah Chang's from Queen's GDSC and this is our submission for Google's 2022 Solution's Challenge.
+Hi there, this is Joshua Gonzales, Alessia Panzica, Olivia Xu, and Aaliyah Chang's from Queen's University and this is our submission for Google's 2022 Solution's Challenge.
 
-EcoLink is a social media concept that encourages sustainable living by allowing users to scan trash articles, determine it's recycability, search for disposal areas via EcoLin's database and post about ecofriendly events happening in their communities.
+EcoLink is a mobile application that encourages sustainable living by allowing users to scan trash articles, determine it's recycability, search for disposal areas via EcoLin's database and post about ecofriendly events happening in their communities.
 
 Although our application's front and back end were developed in React Native and Firebase, EcoLink was first modelled and tested in Figma. The link to the mostly functional prototype is as follows:
 https://www.figma.com/proto/40tFoXuueuNcOStK7mxIZg/Trash-Detection-Algo-App-%5BWorking-Title%5D?node-id=117%3A624&scaling=scale-down&page-id=0%3A1&starting-point-node-id=139%3A589
